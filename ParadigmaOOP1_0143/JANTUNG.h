@@ -1,5 +1,6 @@
 #ifndef JANTUNG_H
 #define JAMTUNG_H
+#include <iostream>
 
 using namespace std;
 
